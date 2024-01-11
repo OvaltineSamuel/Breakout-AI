@@ -65,4 +65,4 @@ In this project, our primary objective was to explore the capabilities of Deep Q
 
 After days of extensive training and analysis, our AI agent has demonstrated problem-solving abilities within the dynamic environment of Breakout, emphasizing spatial awareness, strategic planning, and precision–qualities we aim to instill in our agent. In achieving our goal, we’ve not only explored the abilities of DQN and RL algorithms, but also contributed to the understanding of machine learning, ultimately pushing the advancement towards human-like AI decision-making.
 
-Read more detail result and full project report [here]().
+Read more detail result and full project report [here](https://github.com/OvaltineSamuel/Breakout-AI/blob/main/Project%20Report%20(DQN-Breakout).pdf).
