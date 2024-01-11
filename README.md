@@ -57,5 +57,12 @@ Follow these steps to get BreakoutAI up and running:
 Adjust the configuration parameters in the training script (BreakoutStableBaselines.ipynb) to experiment with different settings and improve model performance.
 
 
-## Results
+## Training Results
+After extensive training and experimentation, improvements were achieved by addressing initial challenges, such as a low buffer size. Hyperparameter adjustments, CUDA cores utilization, and exploration rate changes led to a significant increase in mean episode reward, demonstrating the model's enhanced performance.
 
+## Project Conclusion
+In this project, our primary objective was to explore the capabilities of Deep Q-Networks (DQN) in training an AI agent to excel at Breakout, drawing inspiration from the Atari Deepmind Paper. Throughout all of this, it has shed light on the profound abilities of DQN and reinforcement learning algorithms within artificial intelligence (AI) through the context of video games. This exploration of AI and gaming has advanced the boundaries of machine learning, bridging the gap towards human-like thinking and decision-making.
+
+After days of extensive training and analysis, our AI agent has demonstrated problem-solving abilities within the dynamic environment of Breakout, emphasizing spatial awareness, strategic planning, and precision–qualities we aim to instill in our agent. In achieving our goal, we’ve not only explored the abilities of DQN and RL algorithms, but also contributed to the understanding of machine learning, ultimately pushing the advancement towards human-like AI decision-making.
+
+Read more detail result and full project report [here]().
