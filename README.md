@@ -62,7 +62,7 @@ Adjust the configuration parameters in the training script (BreakoutStableBaseli
 ## Training Results
 After extensive training and experimentation, improvements were achieved by addressing initial challenges, such as a low buffer size. Hyperparameter adjustments, CUDA cores utilization, and exploration rate changes led to a significant increase in mean episode reward, demonstrating the model's enhanced performance.
 
-In the results plot presented below, a clear distinction emerges between the early versions (ver.01~05) and the optimized models (ver.06~11). The initial models, characterized as unoptimized, exhibit lower performance in terms of episode reward mean. Contrastingly, the optimized models, a product of parameter adjustments, demonstrate significantly improved performance. This enhancement underscores the crucial impact of parameter tuning on the overall effectiveness of the models, with the latter versions showcasing superior capabilities and higher episode reward means.
+In the results plot presented below, a clear distinction emerges between the early versions (ver.01-05) and the optimized models (ver.06-11). The initial models, characterized as unoptimized, exhibit lower performance in terms of episode reward mean. Contrastingly, the optimized models, a product of parameter adjustments, demonstrate significantly improved performance. This enhancement underscores the crucial impact of parameter tuning on the overall effectiveness of the models, with the latter versions showcasing superior capabilities and higher episode reward means.
 
 ![](https://github.com/OvaltineSamuel/Breakout-AI/blob/main/Results/Result%20Plot%201%20(All%20models).png)
 
