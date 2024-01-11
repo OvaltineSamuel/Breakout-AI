@@ -1,4 +1,4 @@
-# Breakout-AI
+# Breakout-AI w/ DQN
 
 Welcome to BreakoutAI - an AI-powered agent mastering the Atari Breakout game using reinforcement learning!
 
@@ -55,4 +55,7 @@ Follow these steps to get BreakoutAI up and running:
 ## Configuration
 
 Adjust the configuration parameters in the training script (BreakoutStableBaselines.ipynb) to experiment with different settings and improve model performance.
+
+
+## Results
 
